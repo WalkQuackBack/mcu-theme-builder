@@ -1,8 +1,5 @@
 import { LitElement, css, html } from 'lit'
 import { customElement, property } from 'lit/decorators.js'
-import litLogo from './assets/lit.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
 
 import "./components/material-web/theme-changer.js";
 import "./components/cards.js";
